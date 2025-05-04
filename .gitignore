@@ -1,0 +1,14 @@
+*.o
+*.obj
+*.out
+*.exe
+*~
+.vscode/
+
+*.log
+*.dll
+*.pdb
+*.idb
+
+.DS_Store
+Thumbs.db
